@@ -1,0 +1,32 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #CAD3C8;
+}
+
+.head{
+	background-color: black;
+	color: white;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+table {
+  table-layout: fixed;
+  padding: 10px;
+  text-align: center;
+  height: 200px;
+  width: 100%;
+}
+
+th,td {
+    width: 100px;
+  overflow: hidden;
+  height: 200px;
+}
+
+
+
+
+

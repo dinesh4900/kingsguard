@@ -1,0 +1,124 @@
+body{
+	background: #f7f1e3;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+a, u {
+    text-decoration: none;
+}
+
+
+.dinesh{
+	background-color: black;
+	color:white;
+	text-align: center;
+	overflow: hidden;
+	margin: 0px;
+	padding: 0px;
+}
+.black{
+	background-color: black;
+	color:white;
+	margin: 10px;
+	padding: 20px;
+	text-align: center;
+}
+
+
+.violet{
+	background-color: #7F00FF;
+	color:white;
+	margin: 10px;
+	padding: 20px;
+	text-align: center;
+}
+
+.indigo{
+	background-color: #4b0082;
+	color:white;
+	margin: 10px;
+	padding: 20px;
+	text-align: center;
+}
+
+.blue{
+	background-color: #0984e3;
+	color:white;
+	margin: 10px;
+	padding: 20px;
+	text-align: center;
+}
+
+.green{
+	background-color: #008000;
+	color:white;
+	margin: 10px;
+	padding: 20px;
+	text-align: center;
+}
+.yellow{
+	background-color: #f9ca24;
+	color:white;
+	margin: 10px;
+	padding: 20px;
+	text-align: center;
+}
+
+.orange{
+	background-color: #FF8C00;	
+	color:white;
+	margin: 10px;
+	padding: 20px;
+	text-align: center;
+}
+
+.red{
+	background-color: #FF0000	;
+	color:white;
+	margin: 10px;
+	padding: 20px;
+	text-align: center;
+}
+
+.grey{
+	background-color: #aaa69d;
+	color:white;
+	margin: 10px;
+	padding: 20px;
+	text-align: center;
+
+}
+
+.pink{
+	background-color: #FFC0CB;
+	color: white;
+	margin: 10px;
+	padding: 20px;
+	text-align: center;
+}
+
+.brown{
+	background-color: #A52A2A;
+	color: white;
+	margin: 10px;
+	padding: 20px;
+	text-align: center;
+
+}
+
+.cyan{
+	background-color: #00FFFF;
+	color: white;
+	margin: 10px;
+	padding: 20px;
+	text-align: center;
+
+}
+
+.cyan:hover{
+	background-color: #7FFFD4;
+	transition-duration: 1s;
+	
+}
