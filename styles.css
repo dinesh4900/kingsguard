@@ -44,7 +44,7 @@ a, u {
 }
 
 .blue{
-	background-color: #0984e3;
+	background-color: #0000FF;
 	color:white;
 	margin: 10px;
 	padding: 20px;
@@ -59,7 +59,7 @@ a, u {
 	text-align: center;
 }
 .yellow{
-	background-color: #f9ca24;
+	background-color: #FFFF00;
 	color:white;
 	margin: 10px;
 	padding: 20px;
@@ -100,7 +100,7 @@ a, u {
 }
 
 .brown{
-	background-color: #A52A2A;
+	background-color: #964B00;
 	color: white;
 	margin: 10px;
 	padding: 20px;
@@ -117,8 +117,10 @@ a, u {
 
 }
 
-.cyan:hover{
-	background-color: #7FFFD4;
-	transition-duration: 1s;
-	
+.white{
+	background-color: #FFFFFF;
+	color:black;
+	margin:10px;
+	padding: 20px;
+	text-align: center;
 }
